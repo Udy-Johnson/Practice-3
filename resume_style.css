@@ -133,22 +133,22 @@ body {
 }
 
 .html {
-    width: 90%;
+    width: 20%;
 }
 
 .css {
-    width: 80%;
+    width: 20%;
 }
 
 .javascript {
+    width: 0%;
+}
+
+.python {
     width: 70%;
 }
 
-.react {
-    width: 70%;
-}
-
-.nodejs {
+.sql {
     width: 50%
 }
 
